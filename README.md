@@ -102,16 +102,6 @@ Watches the macOS clipboard and **detects when URLs are copied**.
 
 ---
 
-### 🧲 `DataFetcher.swift`
-
-Handles **network tasks** like extracting metadata from websites.
-
-- Fetches HTML or page titles to show user-friendly information.
-- Supports favicon or title fetching for preview components.
-
-📌 *This can help show page previews or smarter tab titles.*
-
----
 
 ### 💾 `DownloadManager.swift`
 
