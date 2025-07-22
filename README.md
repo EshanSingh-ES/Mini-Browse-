@@ -2,6 +2,7 @@
 
 **MiniBrowse** is a minimalist floating web browser for macOS. It enables always-on-top web access—ideal for referencing, light research, or multi-tasking across apps.
 
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/OFLy_V1gogI/hqdefault.jpg)](https://youtu.be/OFLy_V1gogI)
 ---
 
 ## 🧱 Architecture Overview
